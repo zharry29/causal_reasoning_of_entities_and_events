@@ -1,0 +1,2315 @@
+Sear a steak
+"Sear a steak" involves the followings steps:
+1: Set the steak at room temperature.
+2: Heat the pan.
+3: Put olive oil in the pan until smoking.
+4: Add the steak and sear until both sides are browned.
+5: Place the pan in the oven until desired cookedness.
+6: Remove the steak from the pan and serve with sauce.
+7: Let the pan cool and wash it.
+
+For every step, find out how likely it is that I touch the pan without getting burned. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (A) very likely
+
+
+"Sear a steak" involves the followings steps:
+1: Set the steak at room temperature.
+2: Heat the pan.
+3: Put olive oil in the pan until smoking.
+4: Add the steak and sear until both sides are browned.
+5: Place the pan in the oven until desired cookedness.
+6: Remove the steak from the pan and serve with sauce.
+7: Let the pan cool and wash it.
+
+For every step, find out how likely it is that A sizzling sound can be heard if I add vegetables to the pan. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+
+
+"Sear a steak" involves the followings steps:
+1: Set the steak at room temperature.
+2: Heat the pan.
+3: Put olive oil in the pan until smoking.
+4: Add the steak and sear until both sides are browned.
+5: Place the pan in the oven until desired cookedness.
+6: Remove the steak from the pan and serve with sauce.
+7: Let the pan cool and wash it.
+
+For every step, find out how likely it is that I eat the steak without getting sick. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (B) likely
+Step 2: (B) likely
+Step 3: (B) likely
+Step 4: (B) likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+
+
+Gold event changes: [[], [('I touch the pan without getting burned.', 'less')], [('A sizzling sound can be heard if I add vegetables to the pan.', 'more')], [('I eat the steak without getting sick.', 'more')], [('I eat the steak without getting sick.', 'more')], [], [('I touch the pan without getting burned.', 'more'), ('A sizzling sound can be heard if I add vegetables to the pan.', 'less')]]
+Pred event changes:: [[], [('I touch the pan without getting burned.', 'less')], [('A sizzling sound can be heard if I add vegetables to the pan.', 'more')], [], [('A sizzling sound can be heard if I add vegetables to the pan.', 'less'), ('I eat the steak without getting sick.', 'more')], [], [('I touch the pan without getting burned.', 'more')]]
+
+#####
+
+Do laundry with a washing machine
+"Do laundry with a washing machine" involves the followings steps:
+1: Open the door of the washing machine.
+2: Put the laundry inside the washing machine.
+3: Close the door.
+4: Add detergents to the detergent compartment.
+5: Choose a cycle.
+6: Press start and wait for the cycle to finish.
+7: When the cycle ends, move the clothes to the dryer.
+
+For every step, find out how likely it is that I wear the clothes and stay dry. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (A) very likely
+Step 7: (A) very likely
+
+
+"Do laundry with a washing machine" involves the followings steps:
+1: Open the door of the washing machine.
+2: Put the laundry inside the washing machine.
+3: Close the door.
+4: Add detergents to the detergent compartment.
+5: Choose a cycle.
+6: Press start and wait for the cycle to finish.
+7: When the cycle ends, move the clothes to the dryer.
+
+For every step, find out how likely it is that I push to open the door of the washing machine. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (D) unlikely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+
+
+Gold event changes: [[], [], [], [], [], [('I wear the clothes and stay dry.', 'less'), ('I push to open the door of the washing machine.', 'less')], [('I push to open the door of the washing machine.', 'more')]]
+Pred event changes:: [[], [('I push to open the door of the washing machine.', 'more')], [('I push to open the door of the washing machine.', 'less')], [('I push to open the door of the washing machine.', 'more')], [], [('I wear the clothes and stay dry.', 'more')], []]
+
+#####
+
+Arrange Flowers in a Vase
+"Arrange flowers in a vase" involves the followings steps:
+1: Choose the right vase.
+2: Use a clear elastic hair tie to gather flowers together.
+3: Pour fresh, cool water in your vase.
+4: Add a couple of drops of bleach to the water.
+5: Organize your flowers and trim off leaves.
+6: Cut the flower stems with a sharp knife or garden clippers.
+7: Insert the flowers into the vase
+
+For every step, find out how likely it is that The flowers fall apart. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (D) unlikely
+
+
+"Arrange flowers in a vase" involves the followings steps:
+1: Choose the right vase.
+2: Use a clear elastic hair tie to gather flowers together.
+3: Pour fresh, cool water in your vase.
+4: Add a couple of drops of bleach to the water.
+5: Organize your flowers and trim off leaves.
+6: Cut the flower stems with a sharp knife or garden clippers.
+7: Insert the flowers into the vase
+
+For every step, find out how likely it is that The flowers are wet. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+
+
+Gold event changes: [[], [('The flowers fall apart.', 'less')], [], [], [], [], [('The flowers are wet.', 'more')]]
+Pred event changes:: [[], [('The flowers fall apart.', 'more'), ('The flowers are wet.', 'more')], [('The flowers fall apart.', 'less')], [], [('The flowers fall apart.', 'more')], [], [('The flowers fall apart.', 'less')]]
+
+#####
+
+Wash sneakers
+"Wash sneakers" involves the followings steps:
+1: Brush off dirt from the surface of the sneakers.
+2: Remove shoelaces.
+3: Rinse the shoelaces in soapy water and air dry.
+4: Apply mild detergent to the sneakers and rub gently.
+5: Use a wet towel to blot the sneakers. 
+6: Air dry the sneakers.
+7: Put the shoelaces back to the sneakers.
+
+For every step, find out how likely it is that I put on the sneakers and go outside. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (A) very likely
+
+
+"Wash sneakers" involves the followings steps:
+1: Brush off dirt from the surface of the sneakers.
+2: Remove shoelaces.
+3: Rinse the shoelaces in soapy water and air dry.
+4: Apply mild detergent to the sneakers and rub gently.
+5: Use a wet towel to blot the sneakers. 
+6: Air dry the sneakers.
+7: Put the shoelaces back to the sneakers.
+
+For every step, find out how likely it is that The sneakers are damp. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (B) likely
+Step 5: (B) likely
+Step 6: (B) likely
+Step 7: (D) unlikely
+
+
+Gold event changes: [[], [('I put on the sneakers and go outside.', 'less')], [], [('The sneakers are damp.', 'more')], [], [('The sneakers are damp.', 'less')], [('I put on the sneakers and go outside.', 'more')]]
+Pred event changes:: [[], [], [('I put on the sneakers and go outside.', 'less')], [('The sneakers are damp.', 'more')], [], [], [('I put on the sneakers and go outside.', 'more'), ('The sneakers are damp.', 'less')]]
+
+#####
+
+Steam broccoli
+"Steam broccoli" involves the followings steps:
+1: Clean the broccoli.
+2: Trim the stem and cut the florets.
+3: Place a steamer basket in a saucepan.
+4: Place the broccoli in the steamer basket.
+5: Steam the broccoli.
+6: Remove it from heat.
+7: Serve.
+
+For every step, find out how likely it is that I eat the broccoli and my mouth burns. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+
+
+Gold event changes: [[], [], [], [], [('I eat the broccoli and my mouth burns.', 'more')], [], []]
+Pred event changes:: [[], [], [], [], [('I eat the broccoli and my mouth burns.', 'more')], [], []]
+
+#####
+
+Order food delivery with an app
+"Order food delivery with an app" involves the followings steps:
+1: Choose a restaurant.
+2: Add the dishes that you want to order to the shopping cart.
+3: Verify your delivery address and instructions.
+4: Pay.
+5: Track delivery status and call the driver if needed.
+6: Pick up the food and enjoy. 
+
+For every step, find out how likely it is that The restaurant knows what food to prepare for me. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (B) likely
+Step 6: (D) unlikely
+
+
+"Order food delivery with an app" involves the followings steps:
+1: Choose a restaurant.
+2: Add the dishes that you want to order to the shopping cart.
+3: Verify your delivery address and instructions.
+4: Pay.
+5: Track delivery status and call the driver if needed.
+6: Pick up the food and enjoy. 
+
+For every step, find out how likely it is that I start eating the food I ordered. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (A) very likely
+
+
+Gold event changes: [[], [], [], [('The restaurant knows what food to prepare for me.', 'more')], [], [('I start eating the food I ordered.', 'more')]]
+Pred event changes:: [[], [], [], [], [('The restaurant knows what food to prepare for me.', 'less')], [('The restaurant knows what food to prepare for me.', 'less'), ('I start eating the food I ordered.', 'more')]]
+
+#####
+
+Take domestic flights
+"Take domestic flights" involves the followings steps:
+1: Book a flight.
+2: Arrive at the airport at least 1 hour prior to boarding.
+3: Check in using the airline app or at the counter.
+4: Check bags if any.
+5: Go through airport security.
+6: Wait at the boarding gate or walk around in the terminal.
+7: Board the plane when your group is called.
+8: Sit through the flight after take-off.
+9: After the plane lands, exit the plane with all carry-on items.
+10: Exit to baggage claim.
+11: Take transportation.
+
+For every step, find out how likely it is that I have a ticket number for the flight. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (D) unlikely
+Step 3: (B) likely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (A) very likely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+Step 11: (D) unlikely
+
+
+"Take domestic flights" involves the followings steps:
+1: Book a flight.
+2: Arrive at the airport at least 1 hour prior to boarding.
+3: Check in using the airline app or at the counter.
+4: Check bags if any.
+5: Go through airport security.
+6: Wait at the boarding gate or walk around in the terminal.
+7: Board the plane when your group is called.
+8: Sit through the flight after take-off.
+9: After the plane lands, exit the plane with all carry-on items.
+10: Exit to baggage claim.
+11: Take transportation.
+
+For every step, find out how likely it is that I pack another shirt into my suitcase. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+Step 11: (D) unlikely
+
+
+"Take domestic flights" involves the followings steps:
+1: Book a flight.
+2: Arrive at the airport at least 1 hour prior to boarding.
+3: Check in using the airline app or at the counter.
+4: Check bags if any.
+5: Go through airport security.
+6: Wait at the boarding gate or walk around in the terminal.
+7: Board the plane when your group is called.
+8: Sit through the flight after take-off.
+9: After the plane lands, exit the plane with all carry-on items.
+10: Exit to baggage claim.
+11: Take transportation.
+
+For every step, find out how likely it is that I have my boarding pass ready. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (B) likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (A) very likely
+Step 8: (C) not very likely
+Step 9: (C) not very likely
+Step 10: (C) not very likely
+Step 11: (C) not very likely
+
+
+"Take domestic flights" involves the followings steps:
+1: Book a flight.
+2: Arrive at the airport at least 1 hour prior to boarding.
+3: Check in using the airline app or at the counter.
+4: Check bags if any.
+5: Go through airport security.
+6: Wait at the boarding gate or walk around in the terminal.
+7: Board the plane when your group is called.
+8: Sit through the flight after take-off.
+9: After the plane lands, exit the plane with all carry-on items.
+10: Exit to baggage claim.
+11: Take transportation.
+
+For every step, find out how likely it is that I make a phone call. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+Step 8: (C) not very likely
+Step 9: (C) not very likely
+Step 10: (C) not very likely
+Step 11: (A) very likely
+
+
+Gold event changes: [[('I have a ticket number for the flight.', 'more')], [('I pack another shirt into my suitcase.', 'less')], [('I have my boarding pass ready.', 'more')], [], [], [], [], [('I make a phone call.', 'less')], [('I make a phone call.', 'more')], [], []]
+Pred event changes:: [[], [('I have a ticket number for the flight.', 'less'), ('I have my boarding pass ready.', 'more'), ('I make a phone call.', 'less')], [('I have a ticket number for the flight.', 'more'), ('I have my boarding pass ready.', 'more')], [('I have a ticket number for the flight.', 'less'), ('I pack another shirt into my suitcase.', 'more'), ('I have my boarding pass ready.', 'less')], [('I pack another shirt into my suitcase.', 'less')], [], [('I have a ticket number for the flight.', 'more'), ('I have my boarding pass ready.', 'more')], [('I have a ticket number for the flight.', 'less'), ('I have my boarding pass ready.', 'less')], [], [], [('I make a phone call.', 'more')]]
+
+#####
+
+Stay at a hotel
+"Stay at a hotel" involves the followings steps:
+1: Find a suitable hotel online.
+2: Book a reservation by using the hotel website or calling the hotel.
+3: Arrive at the hotel.
+4: Check in at the front desk and receive your room key.
+5: Arrive at the room.
+6: Order in-room dining and use the hotel's amenities such as gym and spa.
+7: Check out from the hotel.
+
+For every step, find out how likely it is that The hotel knows when I’m arriving. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (B) likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (A) very likely
+
+
+"Stay at a hotel" involves the followings steps:
+1: Find a suitable hotel online.
+2: Book a reservation by using the hotel website or calling the hotel.
+3: Arrive at the hotel.
+4: Check in at the front desk and receive your room key.
+5: Arrive at the room.
+6: Order in-room dining and use the hotel's amenities such as gym and spa.
+7: Check out from the hotel.
+
+For every step, find out how likely it is that I have a hotel room key. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (C) not very likely
+Step 4: (A) very likely
+Step 5: (B) likely
+Step 6: (B) likely
+Step 7: (C) not very likely
+
+
+Gold event changes: [[], [('The hotel knows when I’m arriving.', 'more')], [], [('I have a hotel room key.', 'more')], [], [], [('I have a hotel room key.', 'less')]]
+Pred event changes:: [[], [('The hotel knows when I’m arriving.', 'more')], [('The hotel knows when I’m arriving.', 'more'), ('I have a hotel room key.', 'more')], [('I have a hotel room key.', 'more')], [('The hotel knows when I’m arriving.', 'less'), ('I have a hotel room key.', 'less')], [], [('The hotel knows when I’m arriving.', 'more'), ('I have a hotel room key.', 'less')]]
+
+#####
+
+Project computer screen with an HDMI cable
+"Project computer screen with an hdmi cable" involves the followings steps:
+1: Turn on the computer.
+2: Turn on the monitor.
+3: Select the correct source of the monitor.
+4: Connect the computer and the monitor with an HDMI cable.
+5: Adjust the projection settings on the computer.
+
+For every step, find out how likely it is that I adjust the display settings of the computer. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (D) unlikely
+Step 5: (B) likely
+
+
+"Project computer screen with an hdmi cable" involves the followings steps:
+1: Turn on the computer.
+2: Turn on the monitor.
+3: Select the correct source of the monitor.
+4: Connect the computer and the monitor with an HDMI cable.
+5: Adjust the projection settings on the computer.
+
+For every step, find out how likely it is that I adjust the display settings of the monitor. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (D) unlikely
+Step 5: (B) likely
+
+
+"Project computer screen with an hdmi cable" involves the followings steps:
+1: Turn on the computer.
+2: Turn on the monitor.
+3: Select the correct source of the monitor.
+4: Connect the computer and the monitor with an HDMI cable.
+5: Adjust the projection settings on the computer.
+
+For every step, find out how likely it is that The monitor projects images from the computer. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+
+
+Gold event changes: [[('I adjust the display settings of the computer.', 'more')], [('I adjust the display settings of the monitor.', 'more')], [], [('The monitor projects images from the computer.', 'more')], []]
+Pred event changes:: [[], [], [('I adjust the display settings of the computer.', 'more'), ('I adjust the display settings of the monitor.', 'more')], [('I adjust the display settings of the computer.', 'less'), ('I adjust the display settings of the monitor.', 'less'), ('The monitor projects images from the computer.', 'more')], [('I adjust the display settings of the computer.', 'more'), ('I adjust the display settings of the monitor.', 'more')]]
+
+#####
+
+Start a YouTube channel
+"Start a youtube channel" involves the followings steps:
+1: Decide on a theme and be prepared to stick to it in the long run.
+2: Come up with a channel name.
+3: Register a Google account if you don't have one.
+4: Create your YouTube channel with your Google account. 
+5: Procure a banner art and add it to your main page.
+6: Upload your first video.
+7: Interact with comments.
+8: Track statistics in the Creator Studio.
+
+For every step, find out how likely it is that Someone finds my video using a URL. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+Step 8: (C) not very likely
+
+
+"Start a youtube channel" involves the followings steps:
+1: Decide on a theme and be prepared to stick to it in the long run.
+2: Come up with a channel name.
+3: Register a Google account if you don't have one.
+4: Create your YouTube channel with your Google account. 
+5: Procure a banner art and add it to your main page.
+6: Upload your first video.
+7: Interact with comments.
+8: Track statistics in the Creator Studio.
+
+For every step, find out how likely it is that Someone watches a video from my channel. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+Step 8: (C) not very likely
+
+
+Gold event changes: [[], [], [], [('Someone finds my video using a URL.', 'more')], [], [('Someone watches a video from my channel.', 'more')], [], []]
+Pred event changes:: [[], [], [], [], [], [('Someone finds my video using a URL.', 'more'), ('Someone watches a video from my channel.', 'more')], [], []]
+
+#####
+
+Make tea with tea bags
+"Make tea with tea bags" involves the followings steps:
+1: Heat water to a boil with an electric kettle.
+2: Place the tea bag in a mug.
+3: Carefully pour the boiling water to the mug.
+4: Drink the hot tea carefully.
+
+For every step, find out how likely it is that There is a sound coming from the kettle. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+
+
+"Make tea with tea bags" involves the followings steps:
+1: Heat water to a boil with an electric kettle.
+2: Place the tea bag in a mug.
+3: Carefully pour the boiling water to the mug.
+4: Drink the hot tea carefully.
+
+For every step, find out how likely it is that I put the tea bag back to its box. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+
+
+"Make tea with tea bags" involves the followings steps:
+1: Heat water to a boil with an electric kettle.
+2: Place the tea bag in a mug.
+3: Carefully pour the boiling water to the mug.
+4: Drink the hot tea carefully.
+
+For every step, find out how likely it is that It is dangerous if the mug is knocked over. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (B) likely
+Step 4: (B) likely
+
+
+"Make tea with tea bags" involves the followings steps:
+1: Heat water to a boil with an electric kettle.
+2: Place the tea bag in a mug.
+3: Carefully pour the boiling water to the mug.
+4: Drink the hot tea carefully.
+
+For every step, find out how likely it is that The water has a taste of tea. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (B) likely
+
+
+Gold event changes: [[('There is a sound coming from the kettle.', 'more')], [], [('There is a sound coming from the kettle.', 'less'), ('I put the tea bag back to its box.', 'less'), ('It is dangerous if the mug is knocked over.', 'more'), ('The water has a taste of tea.', 'more')], []]
+Pred event changes:: [[], [('There is a sound coming from the kettle.', 'less'), ('I put the tea bag back to its box.', 'more')], [('I put the tea bag back to its box.', 'less'), ('It is dangerous if the mug is knocked over.', 'more'), ('The water has a taste of tea.', 'more')], [('The water has a taste of tea.', 'less')]]
+
+#####
+
+Install a game on PS5
+"Install a game on ps5" involves the followings steps:
+1: Go to the Playstation store
+2: Pick a game you like
+3: Add the game to the cart and provide payment information
+4: Finish the purchase.
+5: Download and launch the game to start playing. 
+
+For every step, find out how likely it is that I can download and play the game. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+
+
+"Install a game on ps5" involves the followings steps:
+1: Go to the Playstation store
+2: Pick a game you like
+3: Add the game to the cart and provide payment information
+4: Finish the purchase.
+5: Download and launch the game to start playing. 
+
+For every step, find out how likely it is that I run the game. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+
+
+Gold event changes: [[], [], [], [('I can download and play the game.', 'more')], [('I run the game.', 'more')]]
+Pred event changes:: [[], [], [], [], []]
+
+#####
+
+Schedule a virtual meeting
+"Schedule a virtual meeting" involves the followings steps:
+1: Decide on a topic and a list of meeting attendees.
+2: Reach out to the attendees to find a time that works.
+3: Choose a virtual meeting application such as Zoom and schedule a meeting.
+4: Send the meeting information to everyone.
+5: Send a reminder before the meeting.
+6: Start meeting.
+
+For every step, find out how likely it is that I expect that some people will show up. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+
+
+"Schedule a virtual meeting" involves the followings steps:
+1: Decide on a topic and a list of meeting attendees.
+2: Reach out to the attendees to find a time that works.
+3: Choose a virtual meeting application such as Zoom and schedule a meeting.
+4: Send the meeting information to everyone.
+5: Send a reminder before the meeting.
+6: Start meeting.
+
+For every step, find out how likely it is that I cancel the meeting. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+
+
+Gold event changes: [[], [('I expect that some people will show up.', 'more')], [], [], [], [('I cancel the meeting.', 'less')]]
+Pred event changes:: [[], [], [], [], [], []]
+
+#####
+
+Make scrambled eggs
+"Make scrambled eggs" involves the followings steps:
+1: Pre-heat the pan with medium to high heat.
+2: Crack some eggs into a mixing bowl.
+3: Whisk the eggs until the mixture has a consistent color. 
+4: Add oil to the pan.
+5: Add the eggs to the pan.
+6: Stir gently and frequently to separate the eggs.
+7: Turn off the heat and serve the eggs.
+
+For every step, find out how likely it is that I touch the pan surface and get injured. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+
+
+"Make scrambled eggs" involves the followings steps:
+1: Pre-heat the pan with medium to high heat.
+2: Crack some eggs into a mixing bowl.
+3: Whisk the eggs until the mixture has a consistent color. 
+4: Add oil to the pan.
+5: Add the eggs to the pan.
+6: Stir gently and frequently to separate the eggs.
+7: Turn off the heat and serve the eggs.
+
+For every step, find out how likely it is that My hands get greasy if I touch the pan. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (D) unlikely
+
+
+"Make scrambled eggs" involves the followings steps:
+1: Pre-heat the pan with medium to high heat.
+2: Crack some eggs into a mixing bowl.
+3: Whisk the eggs until the mixture has a consistent color. 
+4: Add oil to the pan.
+5: Add the eggs to the pan.
+6: Stir gently and frequently to separate the eggs.
+7: Turn off the heat and serve the eggs.
+
+For every step, find out how likely it is that The eggs solidify. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (B) likely
+Step 7: (B) likely
+
+
+"Make scrambled eggs" involves the followings steps:
+1: Pre-heat the pan with medium to high heat.
+2: Crack some eggs into a mixing bowl.
+3: Whisk the eggs until the mixture has a consistent color. 
+4: Add oil to the pan.
+5: Add the eggs to the pan.
+6: Stir gently and frequently to separate the eggs.
+7: Turn off the heat and serve the eggs.
+
+For every step, find out how likely it is that I start eating the eggs. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (C) not very likely
+Step 7: (B) likely
+
+
+Gold event changes: [[('I touch the pan surface and get injured.', 'more')], [], [], [('My hands get greasy if I touch the pan.', 'more')], [('The eggs solidify.', 'more')], [('The eggs solidify.', 'more')], [('I start eating the eggs.', 'more')]]
+Pred event changes:: [[], [('I touch the pan surface and get injured.', 'less'), ('My hands get greasy if I touch the pan.', 'more'), ('The eggs solidify.', 'more')], [], [('My hands get greasy if I touch the pan.', 'more')], [], [('The eggs solidify.', 'less'), ('I start eating the eggs.', 'more')], [('My hands get greasy if I touch the pan.', 'less'), ('I start eating the eggs.', 'more')]]
+
+#####
+
+Eat at a restaurant in the US
+"Eat at a restaurant in the us" involves the followings steps:
+1: Arrive at the resturant.
+2: Let the host know the size of your party and follow them to the table.
+3: Order food and drinks.
+4: Enjoy the food brought to the table.
+5: Ask for the check when you're finished.
+6: Have the waiter clear off the table. 
+7: Pay by cash or credit card.
+8: Leave the restaurant.
+
+For every step, find out how likely it is that I go home. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (B) likely
+
+
+"Eat at a restaurant in the us" involves the followings steps:
+1: Arrive at the resturant.
+2: Let the host know the size of your party and follow them to the table.
+3: Order food and drinks.
+4: Enjoy the food brought to the table.
+5: Ask for the check when you're finished.
+6: Have the waiter clear off the table. 
+7: Pay by cash or credit card.
+8: Leave the restaurant.
+
+For every step, find out how likely it is that I eat. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+
+
+Gold event changes: [[], [], [('I go home.', 'less')], [('I eat.', 'more')], [('I eat.', 'less')], [('I eat.', 'less')], [('I go home.', 'more')], []]
+Pred event changes:: [[], [], [], [('I eat.', 'more')], [('I eat.', 'less')], [], [], [('I go home.', 'less')]]
+
+#####
+
+Wash Fruit and Vegetables
+"Wash fruit and vegetables" involves the followings steps:
+1: Prepare produce for washing
+2: Wash your hands
+3: Cut away any damaged or bruised areas of your produce
+4: Clean your countertop, cutting boards, and utensils.
+5: Rinse produce with cool or cold water
+6: Scrub any produce with a thick skin
+7: Dry produce after washing.
+
+For every step, find out how likely it is that I eat the produce and get sick. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+
+
+Gold event changes: [[], [], [('I eat the produce and get sick.', 'less')], [], [('I eat the produce and get sick.', 'less')], [('I eat the produce and get sick.', 'less')], []]
+Pred event changes:: [[], [], [], [], [], [], []]
+
+#####
+
+Store Sweet Potato Pie
+"Store sweet potato pie" involves the followings steps:
+1: Let the pie cool completely on a wire rack.
+2: Wrap the pie pan in plastic wrap to make it air-tight.
+3: Put a layer of foil around the outside of the pie pan.
+4: Keep the pie in the freezer for up to 1 month
+
+For every step, find out how likely it is that I eat the pie. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (B) likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (D) unlikely
+
+
+"Store sweet potato pie" involves the followings steps:
+1: Let the pie cool completely on a wire rack.
+2: Wrap the pie pan in plastic wrap to make it air-tight.
+3: Put a layer of foil around the outside of the pie pan.
+4: Keep the pie in the freezer for up to 1 month
+
+For every step, find out how likely it is that The pie is rock hard. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (A) very likely
+
+
+Gold event changes: [[], [('I eat the pie', 'less')], [], [('The pie is rock hard.', 'more')]]
+Pred event changes:: [[], [('I eat the pie', 'less'), ('The pie is rock hard.', 'more')], [], [('I eat the pie', 'less'), ('The pie is rock hard.', 'more')]]
+
+#####
+
+Store Fresh Mushrooms
+"Store fresh mushrooms" involves the followings steps:
+1: Clean the mushrooms first
+2: Brush with towel or mushroom brush
+3: Slice and saute the mushrooms.
+4: Let the mushrooms cool
+5: Freeze in plastic resealable bags
+
+For every step, find out how likely it is that I eat the mushrooms safely. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+
+
+"Store fresh mushrooms" involves the followings steps:
+1: Clean the mushrooms first
+2: Brush with towel or mushroom brush
+3: Slice and saute the mushrooms.
+4: Let the mushrooms cool
+5: Freeze in plastic resealable bags
+
+For every step, find out how likely it is that I eat the mushrooms. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (A) very likely
+Step 4: (C) not very likely
+Step 5: (D) unlikely
+
+
+Gold event changes: [[], [], [('I eat the mushrooms safely.', 'more')], [], [('I eat the mushrooms.', 'less')]]
+Pred event changes:: [[], [], [('I eat the mushrooms.', 'more')], [('I eat the mushrooms.', 'less')], [('I eat the mushrooms.', 'less')]]
+
+#####
+
+Grind coffee beans
+"Grind coffee beans" involves the followings steps:
+1: Prepare a sealed jar
+2: Open the lid of the jar
+3: Open the coffee bean bag
+4: Open the lid of the grinder.
+5: Pour some coffee beans to the grinder
+6: Plug in the grinder
+7: Set the grinding options
+8: Press the button
+9: Wait until the grinder stops automatically
+10: Open the lid of the grinder
+11: Pour all the grounded coffee into the jar
+12: Seal the jar
+13: Unplug the grinder.
+14: Seal the coffee bean bag.
+
+For every step, find out how likely it is that I remove all contents from the jar. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+Step 11: (D) unlikely
+Step 12: (D) unlikely
+Step 13: (D) unlikely
+Step 14: (D) unlikely
+
+
+"Grind coffee beans" involves the followings steps:
+1: Prepare a sealed jar
+2: Open the lid of the jar
+3: Open the coffee bean bag
+4: Open the lid of the grinder.
+5: Pour some coffee beans to the grinder
+6: Plug in the grinder
+7: Set the grinding options
+8: Press the button
+9: Wait until the grinder stops automatically
+10: Open the lid of the grinder
+11: Pour all the grounded coffee into the jar
+12: Seal the jar
+13: Unplug the grinder.
+14: Seal the coffee bean bag.
+
+For every step, find out how likely it is that I remove all contents from the coffee bean bag. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+Step 11: (D) unlikely
+Step 12: (D) unlikely
+Step 13: (D) unlikely
+Step 14: (D) unlikely
+
+
+"Grind coffee beans" involves the followings steps:
+1: Prepare a sealed jar
+2: Open the lid of the jar
+3: Open the coffee bean bag
+4: Open the lid of the grinder.
+5: Pour some coffee beans to the grinder
+6: Plug in the grinder
+7: Set the grinding options
+8: Press the button
+9: Wait until the grinder stops automatically
+10: Open the lid of the grinder
+11: Pour all the grounded coffee into the jar
+12: Seal the jar
+13: Unplug the grinder.
+14: Seal the coffee bean bag.
+
+For every step, find out how likely it is that The coffee beans are in the shape of powder. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (A) very likely
+Step 9: (A) very likely
+Step 10: (A) very likely
+Step 11: (A) very likely
+Step 12: (A) very likely
+Step 13: (A) very likely
+Step 14: (A) very likely
+
+
+"Grind coffee beans" involves the followings steps:
+1: Prepare a sealed jar
+2: Open the lid of the jar
+3: Open the coffee bean bag
+4: Open the lid of the grinder.
+5: Pour some coffee beans to the grinder
+6: Plug in the grinder
+7: Set the grinding options
+8: Press the button
+9: Wait until the grinder stops automatically
+10: Open the lid of the grinder
+11: Pour all the grounded coffee into the jar
+12: Seal the jar
+13: Unplug the grinder.
+14: Seal the coffee bean bag.
+
+For every step, find out how likely it is that I can use the beans to make expresso. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+Step 9: (A) very likely
+Step 10: (A) very likely
+Step 11: (A) very likely
+Step 12: (A) very likely
+Step 13: (A) very likely
+Step 14: (A) very likely
+
+
+Gold event changes: [[], [('I remove all contents from the jar.', 'more')], [('I remove all contents from the coffee bean bag.', 'more')], [], [], [], [], [], [('The coffee beans are in the shape of powder.', 'more')], [('I can use the beans to make expresso.', 'more')], [], [('I remove all contents from the jar.', 'less')], [], [('I remove all contents from the coffee bean bag.', 'less')]]
+Pred event changes:: [[], [], [('I remove all contents from the coffee bean bag.', 'more')], [('I remove all contents from the coffee bean bag.', 'less')], [], [], [], [('The coffee beans are in the shape of powder.', 'more')], [], [], [], [], [], []]
+
+#####
+
+Make coffee expresso
+"Make coffee expresso" involves the followings steps:
+1: Power on the expresso machine
+2: Turn the machine to expresso mode.
+3: Open the container where the grounded coffee is.
+4: Scoop the right amount of coffee to the portafilter.
+5: Put a cup under the portafilter
+6: Wait until the expresso mode is ready
+7: Set the machine to expresso producing mode
+8: Stop the coffee machine
+9: Power off the expresso machine
+
+For every step, find out how likely it is that An indicator light shines. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+Step 9: (A) very likely
+
+
+"Make coffee expresso" involves the followings steps:
+1: Power on the expresso machine
+2: Turn the machine to expresso mode.
+3: Open the container where the grounded coffee is.
+4: Scoop the right amount of coffee to the portafilter.
+5: Put a cup under the portafilter
+6: Wait until the expresso mode is ready
+7: Set the machine to expresso producing mode
+8: Stop the coffee machine
+9: Power off the expresso machine
+
+For every step, find out how likely it is that I drink the coffee expresso. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (A) very likely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+
+
+Gold event changes: [[('An indicator light shines.', 'more')], [], [], [], [], [], [], [('I drink the coffee expresso.', 'more')], [('An indicator light shines.', 'less')]]
+Pred event changes:: [[], [], [('An indicator light shines.', 'less')], [], [], [('An indicator light shines.', 'more')], [('I drink the coffee expresso.', 'more')], [('I drink the coffee expresso.', 'less')], []]
+
+#####
+
+Bath your dog
+"Bath your dog" involves the followings steps:
+1: Get the water temperature right.
+2: Wet your dog's body with water.
+3: Apply the shampoo.
+4: Rinse your dog until the water from his fur runs clear.
+5: Dry your dog.
+6: Give your dog a treat.
+
+For every step, find out how likely it is that I walk the dog. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (A) very likely
+
+
+"Bath your dog" involves the followings steps:
+1: Get the water temperature right.
+2: Wet your dog's body with water.
+3: Apply the shampoo.
+4: Rinse your dog until the water from his fur runs clear.
+5: Dry your dog.
+6: Give your dog a treat.
+
+For every step, find out how likely it is that I hug the dog and water on my clothes. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+
+
+"Bath your dog" involves the followings steps:
+1: Get the water temperature right.
+2: Wet your dog's body with water.
+3: Apply the shampoo.
+4: Rinse your dog until the water from his fur runs clear.
+5: Dry your dog.
+6: Give your dog a treat.
+
+For every step, find out how likely it is that Bubbles can be seen on the dog. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (B) likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+
+
+Gold event changes: [[], [('I walk the dog.', 'less'), ('I hug the dog and water on my clothes.', 'more')], [('Bubbles can be seen on the dog.', 'more')], [('Bubbles can be seen on the dog.', 'less')], [('I walk the dog.', 'more'), ('I hug the dog and water on my clothes.', 'more')], [('I walk the dog.', 'more')]]
+Pred event changes:: [[], [('I hug the dog and water on my clothes.', 'more'), ('Bubbles can be seen on the dog.', 'more')], [('Bubbles can be seen on the dog.', 'less')], [('Bubbles can be seen on the dog.', 'more')], [('I hug the dog and water on my clothes.', 'less'), ('Bubbles can be seen on the dog.', 'less')], [('I walk the dog.', 'more')]]
+
+#####
+
+Clean toilet bowl
+"Clean toilet bowl" involves the followings steps:
+1: Flush toilet.
+2: Pour 1/3 cup of bleach into the bowl.
+3: Scrub the bowl with a toilet brush, making sure to get under the rim.
+4: Wait 6 minutes for disinfecting. Don't allow pets or children near the toilet.
+5: Flush the toilet again.
+
+For every step, find out how likely it is that Someone uses the toilet. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (A) very likely
+
+
+"Clean toilet bowl" involves the followings steps:
+1: Flush toilet.
+2: Pour 1/3 cup of bleach into the bowl.
+3: Scrub the bowl with a toilet brush, making sure to get under the rim.
+4: Wait 6 minutes for disinfecting. Don't allow pets or children near the toilet.
+5: Flush the toilet again.
+
+For every step, find out how likely it is that I use the toilet. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (A) very likely
+
+
+Gold event changes: [[], [('Someone uses the toilet.', 'less')], [], [], [('I use the toilet.', 'more')]]
+Pred event changes:: [[], [('Someone uses the toilet.', 'less'), ('I use the toilet.', 'less')], [], [], [('Someone uses the toilet.', 'more'), ('I use the toilet.', 'more')]]
+
+#####
+
+Dispose of Dog Poop
+"Dispose of dog poop" involves the followings steps:
+1: Pick up dog poop.
+2: Place the dog poop in a plastic bag.
+3: Tie up the bag neatly.
+4: Put the bag in the trash can.
+5: Wash your hands thoroughly.
+
+For every step, find out how likely it is that I touch my face. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (B) likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (B) likely
+
+
+Gold event changes: [[('I touch my face.', 'less')], [], [], [], [('I touch my face.', 'more')]]
+Pred event changes:: [[], [('I touch my face.', 'less')], [], [], [('I touch my face.', 'more')]]
+
+#####
+
+Clean and sanitize a cutting board
+"Clean and sanitize a cutting board" involves the followings steps:
+1: Scrub the board with warm water.
+2: Let the board air-dry for several hours.
+3: Sanitize and deodorize your cutting board with vinegar or a commercial, food-safe sanitizer.
+4: Let the board air-dry before placing it back in storage.
+
+For every step, find out how likely it is that I cut food on the board. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (A) very likely
+Step 4: (C) not very likely
+
+
+Gold event changes: [[('I cut food on the board.', 'less')], [('I cut food on the board.', 'more')], [('I cut food on the board.', 'less')], [('I cut food on the board.', 'more')]]
+Pred event changes:: [[], [('I cut food on the board.', 'more')], [('I cut food on the board.', 'more')], [('I cut food on the board.', 'less')]]
+
+#####
+
+Fly a Dual Line Kite
+"Fly a dual line kite" involves the followings steps:
+1: Assemble the kite inside.
+2: Stand with your back toward the wind.
+3: Walk backward.
+4: Pull gently on the lines.
+5: Land your kite.
+
+For every step, find out how likely it is that I let go of the kite. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (B) likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+
+
+Gold event changes: [[], [], [], [('I let go of the kite.', 'less')], [('I let go of the kite.', 'more')]]
+Pred event changes:: [[], [], [('I let go of the kite.', 'more')], [('I let go of the kite.', 'more')], [('I let go of the kite.', 'less')]]
+
+#####
+
+Place a Coin in the Door Hinge
+"Place a coin in the door hinge" involves the followings steps:
+1: Grab a coin.
+2: Open the door slightly.
+3: Insert the coin into the upper hinge.
+4: Secure the coin with tape, if necessary.
+5: Try a coin in the lower hinge if this does not work.
+
+For every step, find out how likely it is that A person enters through the door. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+
+
+"Place a coin in the door hinge" involves the followings steps:
+1: Grab a coin.
+2: Open the door slightly.
+3: Insert the coin into the upper hinge.
+4: Secure the coin with tape, if necessary.
+5: Try a coin in the lower hinge if this does not work.
+
+For every step, find out how likely it is that I fully open the door. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (C) not very likely
+Step 3: (B) likely
+Step 4: (B) likely
+Step 5: (B) likely
+
+
+Gold event changes: [[], [('A person enters through the door.', 'more')], [('I fully open the door.', 'less')], [], []]
+Pred event changes:: [[], [('I fully open the door.', 'less')], [('A person enters through the door.', 'less'), ('I fully open the door.', 'more')], [], []]
+
+#####
+
+Frame a Puzzle
+"Frame a puzzle" involves the followings steps:
+1: Find a frame that fits your puzzle.
+2: Cut a backing material to fit the frame.
+3: Slide a layer of wax paper under the puzzle.
+4: Use a rolling pin to flatten the puzzle.
+5: Brush puzzle glue over the surface of the puzzle.
+6: Wait for the glue to dry.
+7: Glue the puzzle to the backing material.
+8: Let the puzzle dry for at least 24 hours, weighing it down if necessary.
+9: Frame the puzzle.
+
+For every step, find out how likely it is that My hands get sticky after I touch the puzzle. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (B) likely
+Step 5: (A) very likely
+Step 6: (C) not very likely
+Step 7: (A) very likely
+Step 8: (C) not very likely
+Step 9: (D) unlikely
+
+
+"Frame a puzzle" involves the followings steps:
+1: Find a frame that fits your puzzle.
+2: Cut a backing material to fit the frame.
+3: Slide a layer of wax paper under the puzzle.
+4: Use a rolling pin to flatten the puzzle.
+5: Brush puzzle glue over the surface of the puzzle.
+6: Wait for the glue to dry.
+7: Glue the puzzle to the backing material.
+8: Let the puzzle dry for at least 24 hours, weighing it down if necessary.
+9: Frame the puzzle.
+
+For every step, find out how likely it is that The puzzle is taken apart. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+
+
+"Frame a puzzle" involves the followings steps:
+1: Find a frame that fits your puzzle.
+2: Cut a backing material to fit the frame.
+3: Slide a layer of wax paper under the puzzle.
+4: Use a rolling pin to flatten the puzzle.
+5: Brush puzzle glue over the surface of the puzzle.
+6: Wait for the glue to dry.
+7: Glue the puzzle to the backing material.
+8: Let the puzzle dry for at least 24 hours, weighing it down if necessary.
+9: Frame the puzzle.
+
+For every step, find out how likely it is that I can see the back of the puzzle. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+
+
+Gold event changes: [[], [], [], [], [('My hands get sticky after I touch the puzzle.', 'more')], [('My hands get sticky after I touch the puzzle.', 'less'), ('The puzzle is taken apart.', 'less')], [('I can see the back of the puzzle.', 'less')], [], []]
+Pred event changes:: [[], [], [('I can see the back of the puzzle.', 'more')], [('My hands get sticky after I touch the puzzle.', 'more')], [('My hands get sticky after I touch the puzzle.', 'more')], [('My hands get sticky after I touch the puzzle.', 'less')], [('My hands get sticky after I touch the puzzle.', 'more'), ('I can see the back of the puzzle.', 'less')], [('My hands get sticky after I touch the puzzle.', 'less')], [('My hands get sticky after I touch the puzzle.', 'less')]]
+
+#####
+
+Set up a tent
+"Set up a tent" involves the followings steps:
+1: Lay a tarp down before putting up your tent.
+2: Lay out and account for all the components of your tent.
+3: Lay your tent onto the tarp.
+4: Connect your tent poles.
+5: Insert tent poles into the corresponding flaps in the tent.
+6: Raise the tent.
+7: Stake the tent to the ground.
+8: Add on the rain fly.
+
+For every step, find out how likely it is that The poles can support the weight of a tent. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+
+
+"Set up a tent" involves the followings steps:
+1: Lay a tarp down before putting up your tent.
+2: Lay out and account for all the components of your tent.
+3: Lay your tent onto the tarp.
+4: Connect your tent poles.
+5: Insert tent poles into the corresponding flaps in the tent.
+6: Raise the tent.
+7: Stake the tent to the ground.
+8: Add on the rain fly.
+
+For every step, find out how likely it is that A person walks under the tent. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+Step 8: (C) not very likely
+
+
+"Set up a tent" involves the followings steps:
+1: Lay a tarp down before putting up your tent.
+2: Lay out and account for all the components of your tent.
+3: Lay your tent onto the tarp.
+4: Connect your tent poles.
+5: Insert tent poles into the corresponding flaps in the tent.
+6: Raise the tent.
+7: Stake the tent to the ground.
+8: Add on the rain fly.
+
+For every step, find out how likely it is that Wind blows the tent away. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (B) likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+
+
+"Set up a tent" involves the followings steps:
+1: Lay a tarp down before putting up your tent.
+2: Lay out and account for all the components of your tent.
+3: Lay your tent onto the tarp.
+4: Connect your tent poles.
+5: Insert tent poles into the corresponding flaps in the tent.
+6: Raise the tent.
+7: Stake the tent to the ground.
+8: Add on the rain fly.
+
+For every step, find out how likely it is that The tent gets wet inside if it rains. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (D) unlikely
+Step 3: (C) not very likely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (B) likely
+Step 8: (A) very likely
+
+
+Gold event changes: [[], [], [], [], [('The poles can support the weight of a tent.', 'more')], [('A person walks under the tent.', 'more')], [('Wind blows the tent away.', 'less')], [('The tent gets wet inside if it rains.', 'less')]]
+Pred event changes:: [[], [('The poles can support the weight of a tent.', 'more'), ('The tent gets wet inside if it rains.', 'less')], [('The tent gets wet inside if it rains.', 'more')], [('The tent gets wet inside if it rains.', 'less')], [], [('A person walks under the tent.', 'more'), ('Wind blows the tent away.', 'more')], [('Wind blows the tent away.', 'more'), ('The tent gets wet inside if it rains.', 'more')], [('The tent gets wet inside if it rains.', 'more')]]
+
+#####
+
+Make a pie crust
+"Make a pie crust" involves the followings steps:
+1: In a medium bowl, sift the flour, sugar, and salt until the ingredients are completely incorporated.
+2: Cut in the butter.
+3: Mix in the egg.
+4: Turn the dough out onto a floured surface.
+5: Form a disc.
+6: Refrigerate the dough for 1 hour.
+7: Roll out the crust.
+8: Freeze the crust.
+9: Preheat the oven to 350 degrees.
+10: Bake the crust in two stages.
+
+For every step, find out how likely it is that I can tell what ingredients are used by looking at the mixture. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+Step 8: (C) not very likely
+Step 9: (C) not very likely
+Step 10: (C) not very likely
+
+
+"Make a pie crust" involves the followings steps:
+1: In a medium bowl, sift the flour, sugar, and salt until the ingredients are completely incorporated.
+2: Cut in the butter.
+3: Mix in the egg.
+4: Turn the dough out onto a floured surface.
+5: Form a disc.
+6: Refrigerate the dough for 1 hour.
+7: Roll out the crust.
+8: Freeze the crust.
+9: Preheat the oven to 350 degrees.
+10: Bake the crust in two stages.
+
+For every step, find out how likely it is that The dough is the same shape as the final pie crust. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (B) likely
+Step 5: (B) likely
+Step 6: (B) likely
+Step 7: (C) not very likely
+Step 8: (C) not very likely
+Step 9: (C) not very likely
+Step 10: (C) not very likely
+
+
+"Make a pie crust" involves the followings steps:
+1: In a medium bowl, sift the flour, sugar, and salt until the ingredients are completely incorporated.
+2: Cut in the butter.
+3: Mix in the egg.
+4: Turn the dough out onto a floured surface.
+5: Form a disc.
+6: Refrigerate the dough for 1 hour.
+7: Roll out the crust.
+8: Freeze the crust.
+9: Preheat the oven to 350 degrees.
+10: Bake the crust in two stages.
+
+For every step, find out how likely it is that I knead the crust into a different shape. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (D) unlikely
+Step 7: (B) likely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+
+
+"Make a pie crust" involves the followings steps:
+1: In a medium bowl, sift the flour, sugar, and salt until the ingredients are completely incorporated.
+2: Cut in the butter.
+3: Mix in the egg.
+4: Turn the dough out onto a floured surface.
+5: Form a disc.
+6: Refrigerate the dough for 1 hour.
+7: Roll out the crust.
+8: Freeze the crust.
+9: Preheat the oven to 350 degrees.
+10: Bake the crust in two stages.
+
+For every step, find out how likely it is that The crust can be eaten. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (A) very likely
+
+
+Gold event changes: [[('I can tell what ingredients are used by looking at the mixture.', 'less')], [], [], [], [('The dough is the same shape as the final pie crust.', 'more')], [], [], [('I knead the crust into a different shape.', 'less')], [], [('The crust can be eaten.', 'more')]]
+Pred event changes:: [[], [], [], [('I can tell what ingredients are used by looking at the mixture.', 'more'), ('The dough is the same shape as the final pie crust.', 'less'), ('I knead the crust into a different shape.', 'more')], [], [('I knead the crust into a different shape.', 'less')], [('The dough is the same shape as the final pie crust.', 'less'), ('I knead the crust into a different shape.', 'more')], [('I knead the crust into a different shape.', 'less')], [], [('The crust can be eaten.', 'more')]]
+
+#####
+
+Go to see a musical
+"Go to see a musical" involves the followings steps:
+1: Compare different websites to find the cheapest ticket.
+2: Buy the ticket online.
+3: Go to the musical theater.
+4: Find your seat.
+5: Watch the musical.
+6: Leave the theater.
+
+For every step, find out how likely it is that I have paid for the musical. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (A) very likely
+Step 3: (B) likely
+Step 4: (B) likely
+Step 5: (B) likely
+Step 6: (B) likely
+
+
+"Go to see a musical" involves the followings steps:
+1: Compare different websites to find the cheapest ticket.
+2: Buy the ticket online.
+3: Go to the musical theater.
+4: Find your seat.
+5: Watch the musical.
+6: Leave the theater.
+
+For every step, find out how likely it is that You can see other audience around you. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+
+
+"Go to see a musical" involves the followings steps:
+1: Compare different websites to find the cheapest ticket.
+2: Buy the ticket online.
+3: Go to the musical theater.
+4: Find your seat.
+5: Watch the musical.
+6: Leave the theater.
+
+For every step, find out how likely it is that You walk around. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (B) likely
+Step 5: (D) unlikely
+Step 6: (A) very likely
+
+
+"Go to see a musical" involves the followings steps:
+1: Compare different websites to find the cheapest ticket.
+2: Buy the ticket online.
+3: Go to the musical theater.
+4: Find your seat.
+5: Watch the musical.
+6: Leave the theater.
+
+For every step, find out how likely it is that I make a phone call. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+
+
+Gold event changes: [[], [('I have paid for the musical.', 'more')], [('You can see other audience around you.', 'more')], [('You walk around.', 'less')], [('I make a phone call.', 'less')], [('You can see other audience around you.', 'less'), ('You walk around.', 'less'), ('I make a phone call.', 'more')]]
+Pred event changes:: [[], [('I have paid for the musical.', 'more')], [('I have paid for the musical.', 'less'), ('You can see other audience around you.', 'more'), ('You walk around.', 'more'), ('I make a phone call.', 'less')], [('You walk around.', 'less')], [('You walk around.', 'less')], [('You walk around.', 'more')]]
+
+#####
+
+Draw an music animation
+"Draw an music animation" involves the followings steps:
+1: Decide on a background music.
+2: Write down an outline of what to draw for each line of lyrics.
+3: Draw the key frames for each scene.
+4: Draw the in-betweens and everything else.
+5: Open a video editor like DaVinci Resolve or iMovie.
+6: Import the music and the drawings.
+7: Put the music on the timeline.
+8: Put the drawings on the timeline.
+9: Line up drawings with the music.
+10: Export the video.
+
+For every step, find out how likely it is that The actual drawing has started. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (B) likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+
+
+"Draw an music animation" involves the followings steps:
+1: Decide on a background music.
+2: Write down an outline of what to draw for each line of lyrics.
+3: Draw the key frames for each scene.
+4: Draw the in-betweens and everything else.
+5: Open a video editor like DaVinci Resolve or iMovie.
+6: Import the music and the drawings.
+7: Put the music on the timeline.
+8: Put the drawings on the timeline.
+9: Line up drawings with the music.
+10: Export the video.
+
+For every step, find out how likely it is that The actual drawing has finished. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (B) likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (D) unlikely
+Step 10: (D) unlikely
+
+
+"Draw an music animation" involves the followings steps:
+1: Decide on a background music.
+2: Write down an outline of what to draw for each line of lyrics.
+3: Draw the key frames for each scene.
+4: Draw the in-betweens and everything else.
+5: Open a video editor like DaVinci Resolve or iMovie.
+6: Import the music and the drawings.
+7: Put the music on the timeline.
+8: Put the drawings on the timeline.
+9: Line up drawings with the music.
+10: Export the video.
+
+For every step, find out how likely it is that The required audio and video files are on the computer. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+Step 9: (A) very likely
+Step 10: (A) very likely
+
+
+"Draw an music animation" involves the followings steps:
+1: Decide on a background music.
+2: Write down an outline of what to draw for each line of lyrics.
+3: Draw the key frames for each scene.
+4: Draw the in-betweens and everything else.
+5: Open a video editor like DaVinci Resolve or iMovie.
+6: Import the music and the drawings.
+7: Put the music on the timeline.
+8: Put the drawings on the timeline.
+9: Line up drawings with the music.
+10: Export the video.
+
+For every step, find out how likely it is that The audio and video plays in sync. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+Step 9: (A) very likely
+Step 10: (A) very likely
+
+
+Gold event changes: [[], [], [('The actual drawing has started.', 'more')], [('The actual drawing has finished.', 'more')], [], [('The required audio and video files are on the computer.', 'more')], [], [], [('The audio and video plays in sync.', 'more')], []]
+Pred event changes:: [[], [], [('The actual drawing has started.', 'more'), ('The actual drawing has finished.', 'more')], [('The actual drawing has started.', 'more'), ('The actual drawing has finished.', 'more')], [('The actual drawing has started.', 'less'), ('The actual drawing has finished.', 'less')], [], [], [], [], []]
+
+#####
+
+Apply a screen protector on a phone
+"Apply a screen protector on a phone" involves the followings steps:
+1: Get a screen protector.
+2: Find a low-dust workspace.
+3: Wash your hands.
+4: Clean the screen.
+5: Check placement of the screen protector.
+6: Peel off the screen protector.
+7: Place the screen protector carefully on the phone screen so that the edges align.
+8: Remove air bubbles.
+
+For every step, find out how likely it is that A phone screen fails to stick on the screen. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (B) likely
+Step 8: (B) likely
+
+
+"Apply a screen protector on a phone" involves the followings steps:
+1: Get a screen protector.
+2: Find a low-dust workspace.
+3: Wash your hands.
+4: Clean the screen.
+5: Check placement of the screen protector.
+6: Peel off the screen protector.
+7: Place the screen protector carefully on the phone screen so that the edges align.
+8: Remove air bubbles.
+
+For every step, find out how likely it is that My phone screen breaks if I drop my phone. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+
+
+Gold event changes: [[], [], [], [('A phone screen fails to stick on the screen.', 'less')], [], [], [('My phone screen breaks if I drop my phone.', 'less')], []]
+Pred event changes:: [[], [('A phone screen fails to stick on the screen.', 'more')], [], [], [], [], [('A phone screen fails to stick on the screen.', 'more')], []]
+
+#####
+
+Jump a car battery
+"Jump a car battery" involves the followings steps:
+1: Open each car's hood and locate the battery
+2: Park the working car near, but not touching, the disabled car. 
+3: Put on safety gear (goggles and gloves) if you have it.
+4: Untangle and unwind your jumper cables.
+5: Connect the jumper cables
+6: Start the working car. 
+7: Start the disabled vehicle
+8: Remove the jumper cables.
+9: Keep the engine running
+
+For every step, find out how likely it is that A wire can be used to connect the two cars. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (A) very likely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (A) very likely
+Step 9: (D) unlikely
+
+
+"Jump a car battery" involves the followings steps:
+1: Open each car's hood and locate the battery
+2: Park the working car near, but not touching, the disabled car. 
+3: Put on safety gear (goggles and gloves) if you have it.
+4: Untangle and unwind your jumper cables.
+5: Connect the jumper cables
+6: Start the working car. 
+7: Start the disabled vehicle
+8: Remove the jumper cables.
+9: Keep the engine running
+
+For every step, find out how likely it is that The working car safely drives away. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+Step 9: (A) very likely
+
+
+"Jump a car battery" involves the followings steps:
+1: Open each car's hood and locate the battery
+2: Park the working car near, but not touching, the disabled car. 
+3: Put on safety gear (goggles and gloves) if you have it.
+4: Untangle and unwind your jumper cables.
+5: Connect the jumper cables
+6: Start the working car. 
+7: Start the disabled vehicle
+8: Remove the jumper cables.
+9: Keep the engine running
+
+For every step, find out how likely it is that Consistent engine sound comes from the disabled car. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (A) very likely
+Step 8: (D) unlikely
+Step 9: (A) very likely
+
+
+Gold event changes: [[], [('A wire can be used to connect the two cars.', 'more')], [], [], [('The working car safely drives away.', 'less')], [], [('Consistent engine sound comes from the disabled car.', 'more')], [('The working car safely drives away.', 'more')], []]
+Pred event changes:: [[], [], [], [], [('A wire can be used to connect the two cars.', 'more')], [('A wire can be used to connect the two cars.', 'less')], [('Consistent engine sound comes from the disabled car.', 'more')], [('A wire can be used to connect the two cars.', 'more'), ('Consistent engine sound comes from the disabled car.', 'less')], [('A wire can be used to connect the two cars.', 'less'), ('The working car safely drives away.', 'more'), ('Consistent engine sound comes from the disabled car.', 'more')]]
+
+#####
+
+Make Colored Light Bulbs
+"Make colored light bulbs" involves the followings steps:
+1: Select a clear, 40 watt bulb.
+2: Purchase special heat-resistant glass paint.
+3: Clean your light bulbs with rubbing alcohol.
+4: Prop your light bulb up with tack.
+5: Use small brushes and apply the paint.
+6: Allow air-dry paint to dry for 1 hour.
+
+For every step, find out how likely it is that I can see through the bulb. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+
+
+"Make colored light bulbs" involves the followings steps:
+1: Select a clear, 40 watt bulb.
+2: Purchase special heat-resistant glass paint.
+3: Clean your light bulbs with rubbing alcohol.
+4: Prop your light bulb up with tack.
+5: Use small brushes and apply the paint.
+6: Allow air-dry paint to dry for 1 hour.
+
+For every step, find out how likely it is that I touch the bulb and have paints on my hand. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (B) likely
+Step 6: (C) not very likely
+
+
+Gold event changes: [[], [], [], [], [('I can see through the bulb.', 'less'), ('I touch the bulb and have paints on my hand.', 'more')], [('I touch the bulb and have paints on my hand.', 'less')]]
+Pred event changes:: [[], [('I can see through the bulb.', 'less')], [('I can see through the bulb.', 'more'), ('I touch the bulb and have paints on my hand.', 'more')], [], [('I can see through the bulb.', 'less'), ('I touch the bulb and have paints on my hand.', 'less')], [('I touch the bulb and have paints on my hand.', 'less')]]
+
+#####
+
+Make packaged ramen in microwave
+"Make packaged ramen in microwave" involves the followings steps:
+1: Remove the noodles from the package.
+2: Put the noodles into a microwave safe bowl
+3: Add water such that the noodles are covered
+4: Microwave the noodles for three to five minutes
+5: Let the noodles sit in the microwave for three minutes after the microwave stops.
+6: Take the bowl out of the microwave.
+7: Add in the flavor packet.
+
+For every step, find out how likely it is that The ramen can be returned to the store. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+
+
+"Make packaged ramen in microwave" involves the followings steps:
+1: Remove the noodles from the package.
+2: Put the noodles into a microwave safe bowl
+3: Add water such that the noodles are covered
+4: Microwave the noodles for three to five minutes
+5: Let the noodles sit in the microwave for three minutes after the microwave stops.
+6: Take the bowl out of the microwave.
+7: Add in the flavor packet.
+
+For every step, find out how likely it is that I can pick up some ramen with chopsticks. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (B) likely
+Step 7: (B) likely
+
+
+Gold event changes: [[('The ramen can be returned to the store.', 'less')], [], [], [('I can pick up some ramen with chopsticks.', 'more')], [], [], []]
+Pred event changes:: [[], [], [], [('I can pick up some ramen with chopsticks.', 'less')], [], [('I can pick up some ramen with chopsticks.', 'more')], []]
+
+#####
+
+Throw a Football
+"Throw a football" involves the followings steps:
+1: Pick up the football with your throwing hand.
+2: Position your body in the throwing stance.
+3: Hold the ball near your ear.
+4: Stabilize the ball with your non-throwing hand.
+5: Release your non-throwing hand from the ball.
+6: Wind your throwing arm back.
+7: Throw in a half-circular motion.
+
+For every step, find out how likely it is that Someone else takes the football. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+
+
+"Throw a football" involves the followings steps:
+1: Pick up the football with your throwing hand.
+2: Position your body in the throwing stance.
+3: Hold the ball near your ear.
+4: Stabilize the ball with your non-throwing hand.
+5: Release your non-throwing hand from the ball.
+6: Wind your throwing arm back.
+7: Throw in a half-circular motion.
+
+For every step, find out how likely it is that Both of my hands are grasping the ball. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (C) not very likely
+Step 3: (B) likely
+Step 4: (A) very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+Step 7: (C) not very likely
+
+
+Gold event changes: [[('Someone else takes the football.', 'less')], [], [], [('Both of my hands are grasping the ball.', 'more')], [('Both of my hands are grasping the ball.', 'less')], [], [('Someone else takes the football.', 'more')]]
+Pred event changes:: [[], [('Both of my hands are grasping the ball.', 'less')], [('Both of my hands are grasping the ball.', 'more')], [('Both of my hands are grasping the ball.', 'more')], [('Both of my hands are grasping the ball.', 'less')], [], []]
+
+#####
+
+Play the clarinet
+"Play the clarinet" involves the followings steps:
+1: Inspect the parts of the clarinet.
+2: Assemble the mouthpiece and reed properly.
+3: Hold the clarinet properly.
+4: Disassemble and clean the clarinet after each use.
+
+For every step, find out how likely it is that Someone can play a tune with the clarinet. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (D) unlikely
+
+
+Gold event changes: [[], [('Someone can play a tune with the clarinet.', 'more')], [], [('Someone can play a tune with the clarinet.', 'less')]]
+Pred event changes:: [[], [('Someone can play a tune with the clarinet.', 'more')], [], [('Someone can play a tune with the clarinet.', 'less')]]
+
+#####
+
+Wear contact lenses
+"Wear contact lenses" involves the followings steps:
+1: Wash your hands with fragrance-free soap and warm water. 
+2: Remove the lid on one side of your contact lens case and set it aside.
+3: Use your fingertip to slide the contact lens from the case.
+4: Rinse the contact lens with your contact solution.
+5: Place the contact concave side up on your index finger. 
+6: Hold your eye open with your middle finger and opposite hand, if necessary.
+7: Move the contact towards your eyes calmly and steadily.
+8: Place the contact on your iris gently and blink slowly.
+
+For every step, find out how likely it is that I touch my eyes which get irritated and start watering. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+
+
+"Wear contact lenses" involves the followings steps:
+1: Wash your hands with fragrance-free soap and warm water. 
+2: Remove the lid on one side of your contact lens case and set it aside.
+3: Use your fingertip to slide the contact lens from the case.
+4: Rinse the contact lens with your contact solution.
+5: Place the contact concave side up on your index finger. 
+6: Hold your eye open with your middle finger and opposite hand, if necessary.
+7: Move the contact towards your eyes calmly and steadily.
+8: Place the contact on your iris gently and blink slowly.
+
+For every step, find out how likely it is that The contact lens irratates my eyes. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+Step 7: (D) unlikely
+Step 8: (D) unlikely
+
+
+"Wear contact lenses" involves the followings steps:
+1: Wash your hands with fragrance-free soap and warm water. 
+2: Remove the lid on one side of your contact lens case and set it aside.
+3: Use your fingertip to slide the contact lens from the case.
+4: Rinse the contact lens with your contact solution.
+5: Place the contact concave side up on your index finger. 
+6: Hold your eye open with your middle finger and opposite hand, if necessary.
+7: Move the contact towards your eyes calmly and steadily.
+8: Place the contact on your iris gently and blink slowly.
+
+For every step, find out how likely it is that I see things clearly. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+Step 7: (A) very likely
+Step 8: (A) very likely
+
+
+Gold event changes: [[('I touch my eyes which get irritated and start watering.', 'less')], [], [], [('The contact lens irratates my eyes.', 'less')], [], [], [], [('I see things clearly.', 'more')]]
+Pred event changes:: [[], [], [], [], [], [], [], []]
+
+#####
+
+Apply for a UK visa
+"Apply for a uk visa" involves the followings steps:
+1: Find your local visa application center.
+2: Make an appointment.
+3: Prepare material.
+4: Go to your application appointment.
+5: Go home and receive your visa by mail.
+
+For every step, find out how likely it is that You hear a knock on your door. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (A) very likely
+
+
+"Apply for a uk visa" involves the followings steps:
+1: Find your local visa application center.
+2: Make an appointment.
+3: Prepare material.
+4: Go to your application appointment.
+5: Go home and receive your visa by mail.
+
+For every step, find out how likely it is that The visa officer receives your materials. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (A) very likely
+Step 5: (D) unlikely
+
+
+"Apply for a uk visa" involves the followings steps:
+1: Find your local visa application center.
+2: Make an appointment.
+3: Prepare material.
+4: Go to your application appointment.
+5: Go home and receive your visa by mail.
+
+For every step, find out how likely it is that You travel to UK. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (D) unlikely
+Step 5: (A) very likely
+
+
+Gold event changes: [[], [], [], [('You hear a knock on your door.', 'less'), ('The visa officer receives your materials.', 'more')], [('You hear a knock on your door.', 'more'), ('You travel to UK.', 'more')]]
+Pred event changes:: [[], [], [], [], [('You hear a knock on your door.', 'more'), ('The visa officer receives your materials.', 'less'), ('You travel to UK.', 'more')]]
+
+#####
+
+Clean baked on grease off glass dishes
+"Clean baked on grease off glass dishes" involves the followings steps:
+1: Fill the bottom of the dish with warm water.
+2: Pour a pea-sized amount of dish soap into the water.
+3: Place 1 dryer sheet into the glass dish.
+4: Leave the sheet in the glassware for at least 10 minutes. 
+5: Wipe off the baked on grease with a sponge and dry. 
+
+For every step, find out how likely it is that Dropping the glassware makes the floor wet. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+
+
+"Clean baked on grease off glass dishes" involves the followings steps:
+1: Fill the bottom of the dish with warm water.
+2: Pour a pea-sized amount of dish soap into the water.
+3: Place 1 dryer sheet into the glass dish.
+4: Leave the sheet in the glassware for at least 10 minutes. 
+5: Wipe off the baked on grease with a sponge and dry. 
+
+For every step, find out how likely it is that The glassware looks like new. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (B) likely
+Step 4: (B) likely
+Step 5: (A) very likely
+
+
+Gold event changes: [[('Dropping the glassware makes the floor wet.', 'more')], [], [], [], [('The glassware looks like new.', 'more'), ('Dropping the glassware makes the floor wet.', 'less')]]
+Pred event changes:: [[], [], [('Dropping the glassware makes the floor wet.', 'less'), ('The glassware looks like new.', 'more')], [], [('The glassware looks like new.', 'more')]]
+
+#####
+
+Prepare a custartd ice cream base
+"Prepare a custartd ice cream base" involves the followings steps:
+1: Simmer the milk.
+2: Combine the eggs, sugar, and salt.
+3: Cool the milk and add it to the egg mixture.
+4: Transfer the mixture to a pot and heat it until it reaches 170 degrees.
+5: Strain the mixture over an ice bath and add vanilla.
+6: Chill the mixture for a half hour. 
+
+For every step, find out how likely it is that I drink the milk and burn my tongue. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+Step 6: (C) not very likely
+
+
+"Prepare a custartd ice cream base" involves the followings steps:
+1: Simmer the milk.
+2: Combine the eggs, sugar, and salt.
+3: Cool the milk and add it to the egg mixture.
+4: Transfer the mixture to a pot and heat it until it reaches 170 degrees.
+5: Strain the mixture over an ice bath and add vanilla.
+6: Chill the mixture for a half hour. 
+
+For every step, find out how likely it is that The mixture can be flaked with a fork. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (D) unlikely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (C) not very likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+
+
+"Prepare a custartd ice cream base" involves the followings steps:
+1: Simmer the milk.
+2: Combine the eggs, sugar, and salt.
+3: Cool the milk and add it to the egg mixture.
+4: Transfer the mixture to a pot and heat it until it reaches 170 degrees.
+5: Strain the mixture over an ice bath and add vanilla.
+6: Chill the mixture for a half hour. 
+
+For every step, find out how likely it is that The is smoke above the mixture. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (A) very likely
+Step 2: (D) unlikely
+Step 3: (D) unlikely
+Step 4: (B) likely
+Step 5: (D) unlikely
+Step 6: (D) unlikely
+
+
+Gold event changes: [[('I drink the milk and burn my tongue.', 'more')], [], [('I drink the milk and burn my tongue.', 'less')], [('The mixture can be flaked with a fork.', 'more'), ('The is smoke above the mixture.', 'more')], [('The is smoke above the mixture.', 'less')], []]
+Pred event changes:: [[], [('The is smoke above the mixture.', 'less')], [('I drink the milk and burn my tongue.', 'more')], [('The mixture can be flaked with a fork.', 'more'), ('The is smoke above the mixture.', 'more')], [('The mixture can be flaked with a fork.', 'less'), ('The is smoke above the mixture.', 'less')], []]
+
+#####
+
+Fold a shirt
+"Fold a shirt" involves the followings steps:
+1: Lay the shirt face down on a flat surface. 
+2: Smooth the fabric out to remove any wrinkles on it. 
+3: Fold the shirt sideways into thirds to bring the sleeves in.
+4: Fold the sleeves back in if they don't lay neatly over the fabric. 
+5: Fold the shirt in half from the bottom up. 
+6: Repeat folding the shirt in half to reduce its size. 
+
+For every step, find out how likely it is that The shirt takes up less space in my wardrobe. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (A) very likely
+Step 4: (C) not very likely
+Step 5: (A) very likely
+Step 6: (A) very likely
+
+
+Gold event changes: [[], [], [('The shirt takes up less space in my wardrobe.', 'more')], [('The shirt takes up less space in my wardrobe.', 'more')], [('The shirt takes up less space in my wardrobe.', 'more')], [('The shirt takes up less space in my wardrobe.', 'more')]]
+Pred event changes:: [[], [], [('The shirt takes up less space in my wardrobe.', 'more')], [('The shirt takes up less space in my wardrobe.', 'less')], [('The shirt takes up less space in my wardrobe.', 'more')], []]
+
+#####
+
+Precision: 0.30978260869565216
+Recall: 0.3958333333333333
+F1: 0.34756097560975613

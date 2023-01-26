@@ -1,0 +1,92 @@
+Goal: Wash Hands
+Context: Start.
+Step: Turn on the tap water.
+Question: What is the likelihood that I can touch a light switch?
+Follow up: Are my hands wet after this step?
+Intermediate answer: No
+Follow up: Can I touch a light switch with dry hands?
+Intermediate answer: Yes 
+So the final answer is: likely
+
+Goal: Wash Hands
+Context: Turn on the tap water.
+Step: Put hands under the tap water.
+Question: What is the likelihood that I can touch a light switch?
+Follow up: Are my hands wet after this step?
+Intermediate answer: Yes
+Follow up: Can I touch a light switch with wet hands?
+Intermediate answer: No 
+So the final answer is: unlikely
+
+Goal: Wash Hands
+Context: Turn on the tap water. Put hands under the tap water.
+Step: Apply soap and rub hands.
+Question: What is the likelihood that I can touch a light switch?
+Follow up: Are my hands wet after this step?
+Intermediate answer: Yes
+Follow up: Can I touch a light switch with wet hands?
+Intermediate answer: No 
+So the final answer is: unlikely
+
+Goal: Wash Hands
+Context: Turn on the tap water. Put hands under the tap water. Apply soap and rub hands.
+Step: Turn off the tap water.
+Question: What is the likelihood that I can touch a light switch?
+Follow up: Are my hands wet after this step?
+Intermediate answer: Yes
+Follow up: Can I touch a light switch with wet hands?
+Intermediate answer: No 
+So the final answer is: unlikely
+
+Goal: Wash Hands
+Context: Turn on the tap water. Put hands under the tap water. Apply soap and rub hands. Turn off the tap water.
+Step: Dry my hands using a towel.
+Question: What is the likelihood that I can touch a light switch?
+Follow up: Are my hands wet after this step?
+Intermediate answer: No
+Follow up: Can I touch a light switch with dry hands?
+Intermediate answer: Yes 
+So the final answer is: likely
+
+
+Goal: Change Battery of TV Remote Control
+Context: Start.
+Step: Pop open the battery cover.
+Question: What is the likelihood that I can see the battery compartment?
+Follow up: Is the battery cover removed?
+Intermediate answer: Yes
+Follow up: Can I see the batter compartment with battery cover removed?
+Intermediate answer: Yes
+So the final answer is: likely
+
+Goal: Change Battery of TV Remote Control
+Context: Pop open the battery cover. 
+Step: Take out the old batteries.
+Question: What is the likelihood that I can see the battery compartment?
+Follow up: Is the battery cover removed?
+Intermediate answer: Yes
+Follow up: Can I see the batter compartment with battery cover removed?
+Intermediate answer: Yes
+So the final answer is: likely
+
+Goal: Change Battery of TV Remote Control
+Context: Pop open the battery cover. Take out the old batteries.
+Step: Put in the new batteries.
+Question: What is the likelihood that I can see the battery compartment?
+Follow up: Is the battery cover removed?
+Intermediate answer: Yes
+Follow up: Can I see the batter compartment with battery cover removed?
+Intermediate answer: Yes
+So the final answer is: likely
+
+Goal: Change Battery of TV Remote Control
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries.
+Step: Close the battery cover.
+Question: What is the likelihood that I can see the battery compartment?
+Follow up: Is the battery cover removed?
+Intermediate answer: No
+Follow up: Can I see the batter compartment with battery cover attached?
+Intermediate answer: No
+So the final answer is: unlikely
+
+

@@ -1,0 +1,1 @@
+Use Hainiu's multiple choice prompt

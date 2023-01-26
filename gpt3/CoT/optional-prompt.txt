@@ -1,0 +1,24 @@
+Goal: cook salmon in oven.
+Context: Pat dry the salmon.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: To get finger wet by touching the salmon, the surface of the salmon must be wet. In the given context, the surface of the salmon is dry. Therefore, comparing to the previous step, the likelihood change is "less likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: To get finger wet by touching the salmon, the surface of the salmon must be wet. In the given context, the surface of the salmon is wet. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: To get finger wet by touching the salmon, the surface of the salmon must be wet. In the given context, the surface of the salmon is wet. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: To get finger wet by touching the salmon, the surface of the salmon must be wet. In the given context, the surface of the salmon is dry. Therefore, comparing to the previous step, the likelihood change is "less likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes. Serve the salmon.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: To get finger wet by touching the salmon, the surface of the salmon must be wet. In the given context, the surface of the salmon is dry. Therefore, comparing to the previous step, the likelihood change is "equally likely".

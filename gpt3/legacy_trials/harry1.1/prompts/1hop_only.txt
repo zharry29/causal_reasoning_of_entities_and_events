@@ -1,0 +1,180 @@
+Goal: Wash Hands
+Previous steps: 
+Step: I turn on the tap water. 
+Question: How does this step affect the likelihood that I can safely touch a light switch?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Wash Hands
+Previous steps: 
+Step: I turn on the tap water. 
+Question: How does this step affect the likelihood that water streaming sound can be heard?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: A
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. 
+Step: I put hands under running water. 
+Question: How does this step affect the likelihood that I can safely touch a light switch?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: B
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. 
+Step: I put hands under running water. 
+Question: How does this step affect the likelihood that water streaming sound can be heard?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. I put hands under running water. 
+Step: I apply soap and rub hands. 
+Question: How does this step affect the likelihood that I can safely touch a light switch?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. I put hands under running water. 
+Step: I apply soap and rub hands. 
+Question: How does this step affect the likelihood that water streaming sound can be heard?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. I put hands under running water. I apply soap and rub hands. 
+Step: I turn off the tap water. 
+Question: How does this step affect the likelihood that I can safely touch a light switch?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. I put hands under running water. I apply soap and rub hands. 
+Step: I turn off the tap water. 
+Question: How does this step affect the likelihood that water streaming sound can be heard?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: B
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. I put hands under running water. I apply soap and rub hands. I turn off the tap water. 
+Step: I dry my hands using a towel. 
+Question: How does this step affect the likelihood that I can safely touch a light switch?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: A
+
+Goal: Wash Hands
+Previous steps: I turn on the tap water. I put hands under running water. I apply soap and rub hands. I turn off the tap water. 
+Step: I dry my hands using a towel. 
+Question: How does this step affect the likelihood that water streaming sound can be heard?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Change Battery of TV Remote Control
+Previous steps: 
+Step: I pop open the battery cover. 
+Question: How does this step affect the likelihood that I can see how many batteries are needed?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: A
+
+Goal: Change Battery of TV Remote Control
+Previous steps: 
+Step: I pop open the battery cover. 
+Question: How does this step affect the likelihood that the remote can turn on a TV?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Change Battery of TV Remote Control
+Previous steps: I pop open the battery cover. 
+Step: I take out the old batteries. 
+Question: How does this step affect the likelihood that I can see how many batteries are needed?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Change Battery of TV Remote Control
+Previous steps: I pop open the battery cover. 
+Step: I take out the old batteries. 
+Question: How does this step affect the likelihood that the remote can turn on a TV?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: B
+
+Goal: Change Battery of TV Remote Control
+Previous steps: I pop open the battery cover. I take out the old batteries. 
+Step: I put in the new batteries. 
+Question: How does this step affect the likelihood that I can see how many batteries are needed?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+
+Goal: Change Battery of TV Remote Control
+Previous steps: I pop open the battery cover. I take out the old batteries. 
+Step: I put in the new batteries. 
+Question: How does this step affect the likelihood that the remote can turn on a TV?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: A
+
+Goal: Change Battery of TV Remote Control
+Previous steps: I pop open the battery cover. I take out the old batteries. I put in the new batteries. 
+Step: I close the battery cover. 
+Question: How does this step affect the likelihood that I can see how many batteries are needed?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: B
+
+Goal: Change Battery of TV Remote Control
+Previous steps: I pop open the battery cover. I take out the old batteries. I put in the new batteries. 
+Step: I close the battery cover. 
+Question: How does this step affect the likelihood that the remote can turn on a TV?
+Options:
+A. more likely
+B. less likely
+C. equally likely
+Answer: C
+

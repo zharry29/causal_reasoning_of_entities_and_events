@@ -1,0 +1,56 @@
+Goal: Wash Hands
+Context: Start.
+Step: Turn on the tap water.
+Question: What is the likelihood that I can touch a light switch?
+So the final answer is: likely
+
+Goal: Wash Hands
+Context: Turn on the tap water.
+Step: Put hands under the tap water.
+Question: What is the likelihood that I can touch a light switch?
+So the final answer is: unlikely
+
+Goal: Wash Hands
+Context: Turn on the tap water. Put hands under the tap water.
+Step: Apply soap and rub hands.
+Question: What is the likelihood that I can touch a light switch?
+So the final answer is: unlikely
+
+Goal: Wash Hands
+Context: Turn on the tap water. Put hands under the tap water. Apply soap and rub hands.
+Step: Turn off the tap water.
+Question: What is the likelihood that I can touch a light switch?
+So the final answer is: unlikely
+
+Goal: Wash Hands
+Context: Turn on the tap water. Put hands under the tap water. Apply soap and rub hands. Turn off the tap water.
+Step: Dry my hands using a towel.
+Question: What is the likelihood that I can touch a light switch?
+So the final answer is: likely
+
+
+Goal: Change Battery of TV Remote Control
+Context: Start.
+Step: Pop open the battery cover.
+Question: What is the likelihood that I can see the battery compartment?
+So the final answer is: likely
+
+Goal: Change Battery of TV Remote Control
+Context: Pop open the battery cover. 
+Step: Take out the old batteries.
+Question: What is the likelihood that I can see the battery compartment?
+So the final answer is: likely
+
+Goal: Change Battery of TV Remote Control
+Context: Pop open the battery cover. Take out the old batteries.
+Step: Put in the new batteries.
+Question: What is the likelihood that I can see the battery compartment?
+So the final answer is: likely
+
+Goal: Change Battery of TV Remote Control
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries.
+Step: Close the battery cover.
+Question: What is the likelihood that I can see the battery compartment?
+So the final answer is: unlikely
+
+

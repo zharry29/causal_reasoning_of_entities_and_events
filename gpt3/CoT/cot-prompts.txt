@@ -1,0 +1,222 @@
+Goal: wash hands.
+Context: Turn on the tap water.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: To safely touch a light swtich, my hands must be dry. In the given context, my hands are dry. Therefofre, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: To safely touch a light swtich, my hands must be dry. In the given context, my hands are wet. Therefofre, comparing to the previous step, the likelihood change is "less likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: To safely touch a light swtich, my hands must be dry. In the given context, my hands are wet. Therefofre, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: To safely touch a light swtich, my hands must be dry. In the given context, my hands are wet. Therefofre, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water. Dry my hands using a towel.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: To safely touch a light swtich, my hands must be dry. In the given context, my hands are dry. Therefofre, comparing to the previous step, the likelihood change is "more likely".
+
+
+Goal: wash hands.
+Context: Turn on the tap water.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: To hear water streaming sound, the water must be turned on. In the given context, the water is on. Therefofre, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: To hear water streaming sound, the water must be turned on. In the given context, the water is on. Therefofre, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: To hear water streaming sound, the water must be turned on. In the given context, the water is on. Therefofre, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: To hear water streaming sound, the water must be turned on. In the given context, the water is off. Therefofre, comparing to the previous step, the likelihood change is "less likely".
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water. Dry my hands using a towel.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: To hear water streaming sound, the water must be turned on. In the given context, the water is off. Therefofre, comparing to the previous step, the likelihood change is "more likely".
+
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: To see inside the battery compartment, the batter cover must be removed. In the given context, the battery cover is removed. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: To see inside the battery compartment, the batter cover must be removed. In the given context, the battery cover is removed. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: To see inside the battery compartment, the batter cover must be removed. In the given context, the battery cover is removed. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries. Close the battery cover.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: To see inside the battery compartment, the batter cover must be removed. In the given context, the battery cover is not removed. Therefore, comparing to the previous step, the likelihood change is "less likely".
+
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: To turn on a TV with the remote, the remote must have batteries. In the given context, the remote has batteries. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: To turn on a TV with the remote, the remote must have batteries. In the given context, the remote does not have batteries. Therefore, comparing to the previous step, the likelihood change is "less likely".
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: To turn on a TV with the remote, the remote must have batteries. In the given context, the remote has batteries. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries. Close the battery cover.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: To turn on a TV with the remote, the remote must have batteries. In the given context, the remote has batteries. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: To be able to flake a salmon with a fork, the salmon must be cooked. In the given context, the salmon is raw. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: To be able to flake a salmon with a fork, the salmon must be cooked. In the given context, the salmon is raw. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: To be able to flake a salmon with a fork, the salmon must be cooked. In the given context, the salmon is raw. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: To be able to flake a salmon with a fork, the salmon must be cooked. In the given context, the salmon is cooked. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes. Serve the salmon.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: To be able to flake a salmon with a fork, the salmon must be cooked. In the given context, the salmon is cooked. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: To inform the delivery service your address, you must provide your shipping address during checkout. In the given context, the shipping address is not provided. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: To inform the delivery service your address, you must provide your shipping address during checkout. In the given context, the shipping address is not provided. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: To inform the delivery service your address, you must provide your shipping address during checkout. In the given context, the shipping address is provided. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information. Confirm the order and wait for the delivery.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: To inform the delivery service your address, you must provide your shipping address during checkout. In the given context, the shipping address is provided. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: To be determined on the model to purchase, you must add the model to your shopping cart. In the given context, an e-reader is not in your shopping cart. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: To be determined on the model to purchase, you must add the model to your shopping cart. In the given context, an e-reader is in your shopping cart. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: To be determined on the model to purchase, you must add the model to your shopping cart. In the given context, an e-reader is in your shopping cart. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information. Confirm the order and wait for the delivery.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: To be determined on the model to purchase, you must add the model to your shopping cart. In the given context, an e-reader is in your shopping cart. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: To know the program of the concert, you must check the repertoire. In the given context, you have not browsed the repertoire of the convert. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: To know the program of the concert, you must check the repertoire. In the given context, you have browsed the repertoire of the convert. Therefore, comparing to the previous step, the likelihood change is "more likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: To know the program of the concert, you must check the repertoire. In the given context, you have browsed the repertoire of the convert. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: To know the program of the concert, you must check the repertoire. In the given context, you have browsed the repertoire of the convert. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: To know the program of the concert, you must check the repertoire. In the given context, you have browsed the repertoire of the convert. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance. Leave the concert hall after the performance is over.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: To know the program of the concert, you must check the repertoire. In the given context, you have browsed the repertoire of the convert. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: To hear your phone ring, your phone must not be muted. In the given context, you phone is not muted. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: To hear your phone ring, your phone must not be muted. In the given context, you phone is not muted. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: To hear your phone ring, your phone must not be muted. In the given context, you phone is not muted. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: To hear your phone ring, your phone must not be muted. In the given context, you phone is not muted. Therefore, comparing to the previous step, the likelihood change is "equally likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: To hear your phone ring, your phone must not be muted. In the given context, you phone is muted. Therefore, comparing to the previous step, the likelihood change is "less likely".
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance. Leave the concert hall after the performance is over.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: To hear your phone ring, your phone must not be muted. In the given context, you phone is not muted. Therefore, comparing to the previous step, the likelihood change is "more likely".

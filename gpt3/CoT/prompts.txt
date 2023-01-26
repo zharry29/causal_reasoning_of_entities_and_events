@@ -1,0 +1,248 @@
+Goal: wash hands.
+Context: Turn on the tap water.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: "equally likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: "less likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: "equally likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: "equally likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water. Dry my hands using a towel.
+Question: What is the likelihood that I can safely touch a light switch?
+Answer: "more likely"
+
+
+Goal: wash hands.
+Context: Turn on the tap water.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: "more likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: "equally likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: "equally likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: "less likely"
+
+Goal: wash hands.
+Context: Turn on the tap water. Put hands under running water. Apply soap and rub hands. Turn off the tap water. Dry my hands using a towel.
+Question: What is the likelihood that water streaming sound can be heard?
+Answer: "more likely"
+
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: "more likely"
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: "equally likely"
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: "equally likely"
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries. Close the battery cover.
+Question: What is the likelihood that I can see inside the battery compartment?
+Answer: "less likely"
+
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: "equally likely"
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: "less likely"
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: "more likely"
+
+Goal: change batter of TV remote control.
+Context: Pop open the battery cover. Take out the old batteries. Put in the new batteries. Close the battery cover.
+Question: What is the likelihood that the remote can turn on a TV?
+Answer: "equally likely"
+
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: "equally likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: "equally likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: "equally likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: "more likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes. Serve the salmon.
+Question: What is the likelihood that the salmon can be easliy flaked by a fork? 
+Answer: "equally likely"
+
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: "less likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: "more likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: "equally likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: "less likely"
+
+Goal: cook salmon in oven.
+Context: Pat dry the salmon. Brush the salmon with sauce. Put the salmon on the foil. Put the salmon in an oven preheated to 350 degrees for 20 minutes. Serve the salmon.
+Question: What is the likelihood that I touch the salmon and my fingers get wet? 
+Answer: "equally likely"
+
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: "equally likely"
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: "equally likely"
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: "more likely"
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information. Confirm the order and wait for the delivery.
+Question: What is the likelihood that the delivery service knows my address?
+Answer: "equally likely"
+
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: "equally likely"
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: "more likely"
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: "equally likely"
+
+Goal: purchase a kindle e-reader.
+Context: Enter the kindle official website on amazon. Select the model and storage size of the e-reader and add it to your shopping cart. Enter the shipping address and paymant information. Confirm the order and wait for the delivery.
+Question: What is the likelihood that I have determined the model to purchase?
+Answer: "equally likely"
+
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: "more likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance. Leave the concert hall after the performance is over.
+Question: What is the likelihood that I know what will be performed in the concert?
+Answer: "equally likely"
+
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: "equally likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: "less likely"
+
+Goal: attending a clasiscal music concert.
+Context: Go to the website of a classical music orchestra and browse up coming events. Select the event with interesting repertoire. Check the avaialble seating and select seats. Print out the concert ticket before arriving at the concert hall. Mute your phone and enjoy the performance. Leave the concert hall after the performance is over.
+Question: What is the likelihood that I can hear my phone ring?
+Answer: "more likely"

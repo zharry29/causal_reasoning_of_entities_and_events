@@ -1,0 +1,50 @@
+Goal: Wash Hands
+
+I am interested in the following events:
+"I can safely touch a light switch."
+"Water streaming sound can be heard."
+
+I turn on the tap water. After this,
+"I can safely touch a light switch." is equally like to happen.
+"Water streaming sound can be heard." is more likely to happen.
+
+I put hands under running water. After this,
+"I can safely touch a light switch." is less likely to happen.
+"Water streaming sound can be heard." is equally likely to happen.
+
+I apply soap and rub hands. After this,
+"I can safely touch a light switch." is equally likely to happen.
+"Water streaming sound can be heard." is equally likely to happen.
+
+I turn off the tap water. After this,
+"I can safely touch a light switch." is equally likely to happen.
+"Water streaming sound can be heard." is less likely to happen.
+
+I dry my hands using a towel. After this,
+"I can safely touch a light switch." is more likely to happen.
+"Water streaming sound can be heard." is equally likely to happen.
+
+
+Goal: Change Battery of TV Remote Control
+
+I am interested in the following events:
+"I can see inside the battery compartment."
+"The remote can turn on a TV."
+
+I pop open the battery cover. After this,
+"I can see inside the battery compartment." is more like to happen.
+"The remote can turn on a TV." is equally likely to happen.
+
+I take out the old batteries. After this,
+"I can see inside the battery compartment." is equally likely to happen.
+"The remote can turn on a TV." is less likely to happen.
+
+I put in the new batteries. After this,
+"I can see inside the battery compartment." is equally likely to happen.
+"The remote can turn on a TV." is more likely to happen.
+
+I close the battery cover. After this,
+"I can see inside the battery compartment." is less likely to happen.
+"The remote can turn on a TV." is equally likely to happen.
+
+

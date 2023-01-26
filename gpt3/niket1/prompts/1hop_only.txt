@@ -1,0 +1,100 @@
+"Wash hands" involves the followings steps:
+1. Turn on the tap water.
+2. Put hands under running water.
+3. Apply soap and rub hands.
+4. Turn off the tap water.
+5. Dry my hands using a towel.
+
+For every step, find out how likely it is that water streaming sound can be heard. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.  
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (D) unlikely
+Step 5: (D) unlikely
+
+###
+
+"Wash hands" involves the followings steps:
+1. Turn on the tap water.
+2. Put hands under running water.
+3. Apply soap and rub hands.
+4. Turn off the tap water.
+5. Dry my hands using a towel.
+
+For every step, find out how likely it is that I can safely touch a lightswitch. Answer as (A) very likely (B) likely (C) not very likely (D) unlikely.  
+
+Step 1: (B) likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (C) not very likely
+Step 5: (A) very likely
+
+###
+
+"Change the battery of a TV Remote control" involves the followings steps:
+
+1. Pop open the battery cover.
+2. Take out the old batteries.
+3. Put in the new batteries.
+4. Close the battery cover.
+
+For every step, find out how likely it is that I can see inside the battery compartment.  
+
+Step 1: (A) very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (D) unlikely
+
+###
+
+"Change the battery of a TV Remote control" involves the followings steps:
+
+1. Pop open the battery cover.
+2. Take out the old batteries.
+3. Put in the new batteries.
+4. Close the battery cover.
+
+For every step, find out how likely it is that the remote can turn on a TV.  
+
+Step 1: (C) not very likely
+Step 2: (D) unlikely
+Step 3: (A) very likely
+Step 4: (A) very likely
+
+###
+
+"Cook salmon in oven" involves the followings steps:
+1. Pat dry the salmon.
+2. Brush the salmon with sauce.
+3. Put the salmon on foil.
+4. Put the salmon in an oven preheated to 350 degrees for 20 minutes.
+5. Serve the salmon.
+
+For every step, find out how likely it is that the salmon can be easliy flaked by a fork. 
+
+Step 1: (C) not very likely
+Step 2: (C) not very likely
+Step 3: (C) not very likely
+Step 4: (B) likely
+Step 5: (B) likely
+
+###
+
+"Cook salmon in oven" involves the followings steps:
+1. Pat dry the salmon.
+2. Brush the salmon with sauce.
+3. Put the salmon on foil.
+4. Put the salmon in an oven preheated to 350 degrees for 20 minutes.
+5. Serve the salmon.
+
+For every step, find out how likely it is that I touch the salmon and my fingers get wet. 
+
+Step 1: (C) not very likely
+Step 2: (A) very likely
+Step 3: (A) very likely
+Step 4: (C) not very likely
+Step 5: (C) not very likely
+
+###
+

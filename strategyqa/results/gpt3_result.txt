@@ -1,0 +1,271 @@
+Context: Set the steak at room temperature. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What is the best way to avoid getting burned when cooking?
+be careful
+#2 What is the best way to avoid getting burned when handling hot pans?
+Handle with potholders
+#3 Is it more likely that i do be careful or Handle with potholders when cooking?
+yes
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What is the best way to avoid getting burned when cooking?
+be careful
+#2 What is the best way to avoid getting burned when cooking a steak?
+resting
+#3 Is resting the same as be careful?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What is the best way to avoid getting burned when cooking?
+be careful
+#2 What steps did the OP follow when cooking?
+Pan-seared steak
+#3 Is be careful included in Pan-seared steak?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What are the necessary steps to cook a steak?
+searing and then turning down to finish cooking
+#2 What are the necessary steps to cook a pan?
+cooking food with oil or butter
+#3 Is cooking food with oil or butter the same as searing and then turning down to finish cooking?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What are the steps to cooking a steak?
+searing and then transferring it to the oven
+#2 What are the steps to heating a pan?
+heating the pan until it reaches the desired temperature
+#3 Is heating the pan until it reaches the desired temperature the same as searing and then transferring it to the oven?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. Remove the steak from the pan and serve with sauce. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What are the steps to cooking a steak?
+searing and then transferring it to the oven
+#2 What are the steps to cooking a steak in a pan?
+sautéing
+#3 Is sautéing the same as searing and then transferring it to the oven?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. Remove the steak from the pan and serve with sauce. Let the pan cool and wash it. 
+Question:Is it more likely that i touch the pan without getting burned?
+Take it step by step:
+<start generation>
+#1 What steps are involved in cooking a steak?
+searing and then transferring the steak to a hot oven
+#2 What are the dangers of cooking searing and then transferring the steak to a hot oven?
+burns
+#3 Are burns unlikely to cause burns?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+high-pitched sound
+#2 What does vegetables make when they are cooked?
+taste and texture
+#3 Is high-pitched sound the same as taste and texture?
+no
+Therefore, the answer to the original question is False.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+high-pitched sound
+#2 What does vegetables make when they are cooked?
+water vapor
+#3 Is high-pitched sound the same as water vapor?
+no
+Therefore, the answer to the original question is False.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+high-pitched sound
+#2 What does vegetables make when they are cooked?
+water vapor
+#3 Is high-pitched sound similar to water vapor?
+yes
+Therefore, the answer to the original question is False.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+high-pitched sound
+#2 What does vegetables make when they are cooked?
+water vapor
+#3 Is high-pitched sound similar to water vapor?
+yes
+Therefore, the answer to the original question is False.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+a high-pitched sound
+#2 What does vegetables make when they are added to a pan?
+water
+#3 Is a high-pitched sound similar to water?
+no
+Therefore, the answer to the original question is False.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. Remove the steak from the pan and serve with sauce. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+a high-pitched sound
+#2 What are vegetables?
+the edible parts of plants or fungi
+#3 Can a high-pitched sound be made by the combination of the edible parts of plants or fungi?
+yes
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. Remove the steak from the pan and serve with sauce. Let the pan cool and wash it. 
+Question:Is it more likely that a sizzling sound can be heard if i add vegetables to the pan?
+Take it step by step:
+<start generation>
+#1 What does sizzling sound like?
+a high-pitched sound
+#2 What does a pan make when it is hot?
+a high-pitched sound
+#3 Are a high-pitched sound and a high-pitched sound the same?
+no
+Therefore, the answer to the original question is False.
+<end generation>
+
+Context: Set the steak at room temperature. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What is the best way to store steak?
+at refrigerator temperatures
+#2 Does at refrigerator temperatures help prevent getting sick?
+yes
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What is the recommended way to cook steak?
+medium rare
+#2 What is the recommended way to store steak?
+refrigerated
+#3 Is refrigerated the same as medium rare?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What is the best way to cook steak?
+hot and fast
+#2 What are the necessary steps to do hot and fast?
+searing and then turning down to finish cooking
+#3 Does heating the pan and putting olive oil in it until smoking do all of searing and then turning down to finish cooking?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What is the best way to cook steak?
+searing
+#2 What is the best way to avoid getting sick from eating steak?
+hand washing
+#3 Is searing the same as hand washing?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What are the common causes of food poisoning?
+bacteria, viruses, or parasites
+#2 What steps are involved in cooking a steak?
+seasoning the steak with salt and pepper
+#3 Are any of seasoning the steak with salt and pepper likely to cause bacteria, viruses, or parasites?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. Remove the steak from the pan and serve with sauce. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What are the common causes of food poisoning?
+bacteria, viruses, or parasites
+#2 What steps are involved in cooking a steak?
+seasoning the steak with salt and pepper
+#3 Are any of seasoning the steak with salt and pepper likely to cause bacteria, viruses, or parasites?
+yes
+Therefore, the answer to the original question is True.
+<end generation>
+
+Context: Set the steak at room temperature. Heat the pan. Put olive oil in the pan until smoking. Add the steak and sear until both sides are browned. Place the pan in the oven until desired cookedness. Remove the steak from the pan and serve with sauce. Let the pan cool and wash it. 
+Question:Is it more likely that i eat the steak without getting sick?
+Take it step by step:
+<start generation>
+#1 What are the common sources of food poisoning?
+feces, contaminated water, or uncooked food
+#2 What steps are involved in cooking a steak?
+seasoning the steak with salt and pepper, and then searing it in a hot skillet
+#3 Are any of seasoning the steak with salt and pepper, and then searing it in a hot skillet likely to cause feces, contaminated water, or uncooked food?
+no
+Therefore, the answer to the original question is True.
+<end generation>
+

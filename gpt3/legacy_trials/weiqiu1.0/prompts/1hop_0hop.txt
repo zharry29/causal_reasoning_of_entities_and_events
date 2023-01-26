@@ -1,0 +1,7 @@
+I want to sear a steak.
+First, I start.
+Second, I set the steak at room temperature.
+Third, I heat the pan. Now the pan is more likely to be hot.
+Is it more likely or less likely that I touch the pan without getting burned?
+###
+less likely
